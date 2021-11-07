@@ -238,6 +238,12 @@ const App = () => {
             target="_blank"
             rel="noreferrer"
           >{`built on @${TWITTER_HANDLE}`}</a>
+          <a
+            className="footer-text"
+            href="https://explorer.solana.com/address/6re2pnjsCibAgsLyAA4ajARYS9fMAYYdxpuMpdDxhY4F?cluster=devnet"
+            target="_blank"
+            rel="noreferrer"
+          >Solana Contract on Devnet</a>
         </div>
       </div>
     </div>
